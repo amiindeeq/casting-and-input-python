@@ -1,0 +1,6 @@
+int()
+x=input("please Enter :")
+x=int(x)
+y=input("please Enter :")
+y=int(y)
+print(x+y)
